@@ -102,30 +102,53 @@ The system provides a **clean graphical interface**, efficient database integrat
 
 ---
 
-##  Project Structure
-Hotel Management
-├── hotel.management
-│ ├── Login.java
-│ ├── Dashboard.java
-│ ├── AddCustomer.java
-│ ├── AddRooms.java
-│ ├── AddEmployee.java
-│ ├── AddDriver.java
-│ ├── SearchRoom.java
-│ ├── Pickup.java
-│ ├── UpdateCheck.java
-│ ├── Checkout.java
-│ ├── CustomerInfo.java
-│ ├── ManagerInfo.java
-│ ├── Department.java
-│ └── Conn.java
-├── icons
-├── screenshots
-├── libraries
-│ ├── mysql-connector-java-8.0.28.jar
-│ ├── rs2xml.jar
-│ └── jcalendar.jar
+## 📁 Project Structure
+
+```text
+Hotel-Management-System/
+│
+├── hotel.management/
+│   ├── Login.java
+│   ├── Dashboard.java
+│   ├── AddCustomer.java
+│   ├── AddRooms.java
+│   ├── AddEmployee.java
+│   ├── AddDriver.java
+│   ├── SearchRoom.java
+│   ├── Pickup.java
+│   ├── UpdateCheck.java
+│   ├── Checkout.java
+│   ├── CustomerInfo.java
+│   ├── ManagerInfo.java
+│   ├── Department.java
+│   └── Conn.java
+│
+├── icons/
+│
+├── screenshots/
+│   ├── splash.png
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── new_customer.png
+│   ├── add_rooms.png
+│   ├── add_employee.png
+│   ├── add_driver.png
+│   ├── search_room.png
+│   ├── pickup_service.png
+│   ├── update_status.png
+│   ├── checkout.png
+│   ├── department.png
+│   ├── customer_info.png
+│   ├── manager_info.png
+│   └── reception.png
+│
+├── libraries/
+│   ├── mysql-connector-java-8.0.28.jar
+│   ├── rs2xml.jar
+│   └── jcalendar.jar
+│
 └── README.md
+```
 
 
 
@@ -149,7 +172,7 @@ DriverManager.getConnection(
   "username",
   "password"
 );
-
+```
 
 
 ##  Run the Application
