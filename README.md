@@ -36,56 +36,56 @@ The system provides a **clean graphical interface**, efficient database integrat
 
 ---
 
-## 🖥️ Screenshots
+##  Screenshots
 
 
 ###  Splash / Welcome Screen
-![Splash Screen]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113547" src="https://github.com/user-attachments/assets/722b975a-253f-44bb-b09e-db0ff50f11b5" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113547" src="https://github.com/user-attachments/assets/722b975a-253f-44bb-b09e-db0ff50f11b5" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-22 113649" src="https://github.com/user-attachments/assets/9dbfab1f-90cb-44f5-a349-fdff89dd7369" />
 
 ###  Login Screen
-![Login]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113606" src="https://github.com/user-attachments/assets/1f549609-7fa5-4dee-a8db-71fb8ffb25ca" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113606" src="https://github.com/user-attachments/assets/1f549609-7fa5-4dee-a8db-71fb8ffb25ca" />
 
 
 ###  Admin Dashboard
-![Dashboard]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113709" src="https://github.com/user-attachments/assets/dad90463-f80c-48d4-8ba1-3d7c307f437a" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113709" src="https://github.com/user-attachments/assets/dad90463-f80c-48d4-8ba1-3d7c307f437a" />
 
 
 ###  New Customer Form
-![New Customer]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113734" src="https://github.com/user-attachments/assets/9d3c18a3-27f2-46eb-9f42-61922189a092" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113734" src="https://github.com/user-attachments/assets/9d3c18a3-27f2-46eb-9f42-61922189a092" />
 
 
 ###  Add Rooms
-![Add Rooms]<img width="1920" height="1080" alt="Screenshot 2026-01-22 114036" src="https://github.com/user-attachments/assets/7ad29b83-e8b0-47fc-8df4-3fd1d29485b1" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 114036" src="https://github.com/user-attachments/assets/7ad29b83-e8b0-47fc-8df4-3fd1d29485b1" />
 
 
 ###  Add Employee
-![Add Employee]<img width="1920" height="1080" alt="Screenshot 2026-01-22 114020" src="https://github.com/user-attachments/assets/35e0d6ca-11a2-471b-828e-e5fb7525cfc7" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 114020" src="https://github.com/user-attachments/assets/35e0d6ca-11a2-471b-828e-e5fb7525cfc7" />
 
 
 ###  Add Driver
-![Add Driver]<img width="1920" height="1080" alt="Screenshot 2026-01-22 114056" src="https://github.com/user-attachments/assets/018e10e9-25f9-4251-8cfc-fab4776aafac" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 114056" src="https://github.com/user-attachments/assets/018e10e9-25f9-4251-8cfc-fab4776aafac" />
 
 
 ###  Search Room
-![Search Room]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113942" src="https://github.com/user-attachments/assets/6dd85d07-2dc8-472b-b610-317f2ccb271c" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113942" src="https://github.com/user-attachments/assets/6dd85d07-2dc8-472b-b610-317f2ccb271c" />
 
 
 ###  Pickup Service
-![Pickup Service]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113923" src="https://github.com/user-attachments/assets/12281d43-e8c2-47d1-bab6-e7857aca0e2e" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113923" src="https://github.com/user-attachments/assets/12281d43-e8c2-47d1-bab6-e7857aca0e2e" />
 
 
 ###  Update Check-in Status
-![Update Status]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113851" src="https://github.com/user-attachments/assets/a935a8f9-9a00-4f7a-90f5-cc4b330a2df4" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113851" src="https://github.com/user-attachments/assets/a935a8f9-9a00-4f7a-90f5-cc4b330a2df4" />
 
 
 ###  Checkout
-![Checkout]<img width="1920" height="1080" alt="Screenshot 2026-01-22 113831" src="https://github.com/user-attachments/assets/b5ef496b-0b06-4ee4-8bad-d7d1365a525f" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 113831" src="https://github.com/user-attachments/assets/b5ef496b-0b06-4ee4-8bad-d7d1365a525f" />
 
 
 ###  Department Budget
-![Department]<img width="1920" height="1080" alt="budget" src="https://github.com/user-attachments/assets/b397503d-25b9-415b-9496-137a55db641d" />
+<img width="1920" height="1080" alt="budget" src="https://github.com/user-attachments/assets/b397503d-25b9-415b-9496-137a55db641d" />
 
 
 ---
